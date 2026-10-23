@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<html>
+<head>
+<title> this is a file </title>
+</head>
+<body>
+<table border = "8">
+<thead>
+<tr>
+<th> serial number </th>
+<th> day </th>
+<th> hours of study </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 1 </td>
+<td> Monday </td>
+<td> 4 </td>
+</tr>
+<tr>
+<td> 2 <td>
+<td> Tuesday </td>
+<td> 3.5 </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> Wednesday </td>
+<td> 5 </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> Thursday </td>
+<td> 4.5 </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> Friday </td>
+<td> 8 </td>
+</tr>
+<tfoot>
+<tr>
+<td colspan = "2"> average studied time </td>
+<td> 5 </td>
+</tfoot>
+</table>
+</body>
+</html>
+
+
